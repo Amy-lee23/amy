@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&display=swap");
+
+h2{
+    font-family: annie use your telescope;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 500,
+  'GRAD' 0,
+  'opsz' 48;
+  font-size: 70px;
+  color: #ff68aa;
+}
+
+.material-symbols-outlined:hover {
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 500,
+    'GRAD' 0,
+    'opsz' 48;
+}
+
+.bi-airplane-engines {
+    font-size: 60px;
+    color: #ff68aa;
+}
